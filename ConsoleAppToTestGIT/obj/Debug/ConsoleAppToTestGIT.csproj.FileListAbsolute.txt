@@ -1,1 +1,2 @@
 C:\Users\Naveen Reddy Vangeti\Documents\Visual Studio 2015\Projects\Test Project for GIT\ConsoleAppToTestGIT\bin\Debug\ConsoleAppToTestGIT.exe.config
+C:\Users\Naveen Reddy Vangeti\Documents\Visual Studio 2015\Projects\test Project2 for GIT\ConsoleAppToTestGIT\bin\Debug\ConsoleAppToTestGIT.exe.config
