@@ -10,6 +10,9 @@ namespace ConsoleAppToTestGIT
     {
         static void Main(string[] args)
         {
+
+
+            ///First made changes and committed
         }
     }
 }
